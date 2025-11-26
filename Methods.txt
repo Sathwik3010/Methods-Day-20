@@ -1,0 +1,16 @@
+in java method is a block of code that performs a specific task. and can be called(invoked) from other parts of the programs, methods are essential for organizing code, promoting reusability and enhancing readability.
+
+considerations for method creation
+-----------------------------------
+1. naming: use meaningful names that describes what the method does.
+2. parameters: choose appropriate types and number of parameters to pass data into methods.
+3. return type: decide whether method should return a value and choose the appropriate return type.
+4. access modifiers: determine whether methods are public, private protected.
+5. static vs instance methods: determine whether method should be static(class-level) or instance methods(Object-level).
+
+example:
+---------
+modifiers type name (){
+-------------
+-------------
+}
